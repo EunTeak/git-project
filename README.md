@@ -1,3 +1,3 @@
 # git-project
 git sample project
-readme -edits sample
+readme -edits sample.
